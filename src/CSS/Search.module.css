@@ -1,0 +1,11 @@
+.cardGrid{
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    justify-content: flex-start;
+}
+.searchHeading{
+    color: white;
+    font-weight: 500;
+    font-size: 1.5rem;
+}
